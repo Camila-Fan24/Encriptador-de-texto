@@ -1,4 +1,4 @@
-git//-------Selección de Elementos-------//
+//-------Selección de Elementos-------//
 const btnEncriptar = document.querySelector(".btn-encriptar");
 const txtEncriptar = document.querySelector(".encriptar");
 const aviso = document.querySelector(".texto-aviso");
